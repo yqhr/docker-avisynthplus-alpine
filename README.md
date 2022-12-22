@@ -1,5 +1,6 @@
 # docker-avisynthplus-alpine
 A container with avisynthplus, ffmpeg, l-smash and some modules for removal of ads in mpeg2-ts file.
+This is made for Intel-QSV enabled ffmpeg.
 
 heavily inspired by:
 https://github.com/tobitti0/Docker-AviSynthplus
