@@ -8,6 +8,5 @@ this intend to use with a great project, https://github.com/tobitti0/JoinLogoScp
 
 Ref for compiling from sources:
 
-https://kt-hiro.hatenablog.com/entry/2022/05/15/150917
-
-https://trac.ffmpeg.org/wiki/Hardware/QuickSync
+- https://kt-hiro.hatenablog.com/entry/2022/05/15/150917
+- https://trac.ffmpeg.org/wiki/Hardware/QuickSync
