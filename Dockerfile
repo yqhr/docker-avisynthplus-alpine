@@ -82,7 +82,7 @@ RUN \
 cd /usr/local/src && \
 git clone --depth 1 -b n4.4.2 git://git.ffmpeg.org/ffmpeg.git && \
 cd ffmpeg && \
-./configure --enable-gpl --enable-version3 --disable-doc --disable-debug --enable-avisynth -enable-libx264 --enable-libx265 --enable-nonfree --enable-libmfx --enable-gnutls --enable-libaom --enable-libass --enable-libfdk-aac --enable-libfreetype --enable-libmp3lame --enable-libopus --enable-libsvtav1 --enable-libdav1d --enable-libvorbis --enable-libvpx && \
+./configure --enable-gpl --enable-version3 --disable-doc --disable-debug --enable-avisynth --enable-libx264 --enable-libx265 --enable-nonfree --enable-libmfx --enable-gnutls --enable-libaom --enable-libass --enable-libfdk-aac --enable-libfreetype --enable-libmp3lame --enable-libopus --enable-libsvtav1 --enable-libdav1d --enable-libvorbis --enable-libvpx && \
 make -j $(nproc) && \
 make install
 
